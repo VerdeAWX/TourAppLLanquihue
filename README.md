@@ -53,7 +53,7 @@ ui.LlanquihueTourApp
 
 ## Autor
 
-**Nombre del estudiante:** Nicolas Orozco Roblwa
+**Nombre del estudiante:** Nicolas Orozco Robles
 
 **Asignatura:** Programación Orientada a Objetos
 
